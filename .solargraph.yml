@@ -1,0 +1,5 @@
+include:
+- "app/**/*.rb"
+reporters:
+- rubocop
+- require_not_found
